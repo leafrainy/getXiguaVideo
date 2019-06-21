@@ -9,7 +9,6 @@ import requests as r
 import base64
 import execjs
 import json
-import sys
 
 
 #PC端的西瓜视频连接
